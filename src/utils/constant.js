@@ -14,7 +14,7 @@ import FitnessCenterIcon from '@mui/icons-material/FitnessCenter';
 import DeveloperModeIcon from '@mui/icons-material/DeveloperMode';
 
 //Logo url
-export const logo = 'https://i.ibb.co/s9Qys2j/logo.png';
+export const logo = 'https://img.utdstc.com/icon/fc7/bb6/fc7bb6fca4bd5dbdd106d1a217fdc236e39e6c2542f3776d1601473bf6fcc64e:100';
 
 //Array of categories which we are using in sidebar
 export const categories = [
